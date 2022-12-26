@@ -1,0 +1,15 @@
+C:\GreekBrains\Yrok6_odnomernie_massivi_Prodoljenie.HomeWork\Task41\bin\Debug\net6.0\Task41.exe
+C:\GreekBrains\Yrok6_odnomernie_massivi_Prodoljenie.HomeWork\Task41\bin\Debug\net6.0\Task41.deps.json
+C:\GreekBrains\Yrok6_odnomernie_massivi_Prodoljenie.HomeWork\Task41\bin\Debug\net6.0\Task41.runtimeconfig.json
+C:\GreekBrains\Yrok6_odnomernie_massivi_Prodoljenie.HomeWork\Task41\bin\Debug\net6.0\Task41.dll
+C:\GreekBrains\Yrok6_odnomernie_massivi_Prodoljenie.HomeWork\Task41\bin\Debug\net6.0\Task41.pdb
+C:\GreekBrains\Yrok6_odnomernie_massivi_Prodoljenie.HomeWork\Task41\obj\Debug\net6.0\Task41.csproj.AssemblyReference.cache
+C:\GreekBrains\Yrok6_odnomernie_massivi_Prodoljenie.HomeWork\Task41\obj\Debug\net6.0\Task41.GeneratedMSBuildEditorConfig.editorconfig
+C:\GreekBrains\Yrok6_odnomernie_massivi_Prodoljenie.HomeWork\Task41\obj\Debug\net6.0\Task41.AssemblyInfoInputs.cache
+C:\GreekBrains\Yrok6_odnomernie_massivi_Prodoljenie.HomeWork\Task41\obj\Debug\net6.0\Task41.AssemblyInfo.cs
+C:\GreekBrains\Yrok6_odnomernie_massivi_Prodoljenie.HomeWork\Task41\obj\Debug\net6.0\Task41.csproj.CoreCompileInputs.cache
+C:\GreekBrains\Yrok6_odnomernie_massivi_Prodoljenie.HomeWork\Task41\obj\Debug\net6.0\Task41.dll
+C:\GreekBrains\Yrok6_odnomernie_massivi_Prodoljenie.HomeWork\Task41\obj\Debug\net6.0\refint\Task41.dll
+C:\GreekBrains\Yrok6_odnomernie_massivi_Prodoljenie.HomeWork\Task41\obj\Debug\net6.0\Task41.pdb
+C:\GreekBrains\Yrok6_odnomernie_massivi_Prodoljenie.HomeWork\Task41\obj\Debug\net6.0\Task41.genruntimeconfig.cache
+C:\GreekBrains\Yrok6_odnomernie_massivi_Prodoljenie.HomeWork\Task41\obj\Debug\net6.0\ref\Task41.dll
